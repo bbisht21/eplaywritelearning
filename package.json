@@ -1,0 +1,22 @@
+{
+  "name": "eplaywritelearning",
+  "version": "1.0.0",
+  "description": "random",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbisht21/eplaywritelearning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbisht21/eplaywritelearning/issues"
+  },
+  "homepage": "https://github.com/bbisht21/eplaywritelearning#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.9"
+  }
+}
